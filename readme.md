@@ -21,11 +21,12 @@ https://www.fastgrow.jp/articles/fgc2024-takashima-yamashita
 - 内容：利用者が行列を待ち合わせしている間に、厨房で調理を完成させられるシステム
 - 特徴：QRと写真付きラミネートを行列スペースに設置されたモニタに置くだけで会計前注文が可能
 - 名称：飲食店システム、飲食物提供方法及び飲食店用プログラム (特許第7495768号）
-- 商標：[instaCook](https://www.j-platpat.inpit.go.jp/c1801/TR/JP-2023-113413/40/ja)
+- 商標：[instaCook](https://www.j-platpat.inpit.go.jp/c1801/TR/JP-2023-113413/40/ja) | [ロゴ](https://www.j-platpat.inpit.go.jp/c1801/TR/JP-2023-113414/40/ja)
 
 
-[解説資料](https://docs.google.com/presentation/d/10Ab8g-QCLMxRszhTiJYQ3fNbdF0yzpfhhurFtJROI_Y/edit#slide=id.p)
+#### [特許解説資料](https://docs.google.com/presentation/d/10Ab8g-QCLMxRszhTiJYQ3fNbdF0yzpfhhurFtJROI_Y/edit#slide=id.p)
 
+---
 ### システムのセールスポイント
 
 #### ユーザビリティとアクセシビリティ
@@ -45,9 +46,10 @@ https://www.fastgrow.jp/articles/fgc2024-takashima-yamashita
 - アレルゲンの排除や栄養管理にも対応可能
 
 #### 店舗オペレーションの省力化
-- 有人会計不要
-- 混雑時のレジ渋滞を回避
-- ラミネートと在庫連携による欠品防止。ラミネートがなくなれば、自動的に欠品と判断
+- 厨房以外の人員が不要
+- 厨房側も同じく効率を最適化済み
+- セルフレジが可能
+- ラミネートと在庫連携による欠品防止。ラミネートがなくなれば 自動的に欠品と判断
 
 
 
